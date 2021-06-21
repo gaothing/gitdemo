@@ -1,7 +1,8 @@
 ```
 1、班级种类和教材11111ß2223334444555master2
-{hahah
+{hahahkkkk
 add
+kaka
 classList：[
   {
   id:0,
